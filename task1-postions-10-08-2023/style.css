@@ -1,0 +1,44 @@
+/*  default styling */
+
+div{
+    font-family: 'roboto',sans-serif;
+    color: blue;
+    text-align: center important;
+    /* margin :auto !important;*/
+    /* background-color: blue ;*/
+    height: 150px;
+    width:150;
+
+}
+
+.static{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+
+}
+.relative{
+    background-color: bisque;
+    left: 100px;
+   width:200px;
+   height: 200px;
+
+}   
+.absolute{
+    background-color: black;
+    width: 200px;
+    height:200px;
+
+
+}
+.fixed{
+    background-color: brown;
+    width:200px;
+    height: 200px;
+}
+.sticky{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+
+}
